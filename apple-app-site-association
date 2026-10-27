@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["KK29L49F2M.com.evanschneider.budgettracker"],
+        "components": [
+          { "/": "/plaid-oauth", "comment": "Return from a bank's sign-in during Plaid Link" },
+          { "/": "/plaid-oauth/*" }
+        ]
+      }
+    ]
+  }
+}
